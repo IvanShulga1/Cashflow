@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.MAUI", "Cashflow.MAUI\Cashflow.MAUI.csproj", "{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.Core", "Cashflow.Core\Cashflow.Core.csproj", "{EC80F8C0-9EAD-41FA-9228-6A794CB1DD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.Models", "Cashflow.Models\Cashflow.Models.csproj", "{49761312-3267-444F-9911-171619135A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FBCF9F-5780-4D7C-BDAB-F7D14C714A98}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EC80F8C0-9EAD-41FA-9228-6A794CB1DD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC80F8C0-9EAD-41FA-9228-6A794CB1DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC80F8C0-9EAD-41FA-9228-6A794CB1DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC80F8C0-9EAD-41FA-9228-6A794CB1DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49761312-3267-444F-9911-171619135A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49761312-3267-444F-9911-171619135A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49761312-3267-444F-9911-171619135A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49761312-3267-444F-9911-171619135A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A27DDD6D-3540-4131-A028-900E96253A47}
+	EndGlobalSection
+EndGlobal
